@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @sachinpatil
+- 👋 Hi, I’m @ Sachin N Patil
+
+  
 - 👀 I’m interested in
-Data Analytics
-Data Visualization
-Data Modelling
-Collaborative Data Projec
+-Data Analytics
+-Data Visualization
+-Data Modelling
+-Collaborative Data Projec
 -🛠️ Technical Skills
 Excel: Lookups, Pivot Tables, Charts, Formulas, Conditional Formatting
 Power BI: ETL, Data Modelling, DAX, Power Query, RLS, Relationships, Reports, Dashboards
